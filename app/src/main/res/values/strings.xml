@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AthleMix</string>
+    <string name="title1" />
+    <string name="title2">Got nothing to do? Bored out of your mind? We\'ve all been there, don\'t worry we\'ve got you covered</string>
+    <string name="title3">Test out your skills and abilities with our minigames!</string>
+    <string name="title4"> </string>
+    <string name="subtitle1">———Made with ♥ by Pranjal———</string>
+    <string name="subtitle2">~~~</string>
+    <string name="subtitle3">“I know If I score we’re going to win the match.”  –  Cristiano Ronaldo</string>
+    <string name="subtitle4">Tap the Next Arrow to Continue</string>
+
+    <string name="chooseTitle"><b>Choose a tile</b></string>
+    <string name="activity_one">ANDROID rubbish</string>
+
+
+    <string name="hangman_title">\ =====....=====......======~......=====....=====,....========+......======....======........=======......=====+....=====.\n
+                                 =====....=====.....========.....,======...=====,..+============....======...=======........========.....=======...=====.\n
+                                 =====....=====.....========+....,=======..=====,.=============....,=======..=======.......=========.....========..=====.\n
+                                 ==============....=====:====....,========.=====,.=====............+=======.========:......====,=====....========+.=====.\n
+                                 ==============....====:.=====...,====.====.====,======..=========.==================.....=====.:====....===============.\n
+                                 ==============...=====..+====,..,=====.========,.=====..========:.====~:======.=====.....=====..=====...=====.~========.\n
+                                 =====....=====..==============..,=====..=======,.=======.,======.:====..======.=====....==============..=====..========.\n
+                                 =====....=====..===============..=====...======,..+============..=====..~====..~====~..~==============..=====...=======.\n
+                                 =====....=====.======....~=====.,=====....=====,....=+=======....=====...====...=====..======....======.=====....~=====.</string>
+</resources>
